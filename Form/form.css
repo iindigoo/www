@@ -1,0 +1,66 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	width: 960px;
+	margin: auto;
+	background-color: grey;
+}
+.header {
+	padding: 30px;
+}
+.header h1 {
+	font-size: 70pt;
+	color: white;
+}
+.nav {
+	background-color: #800000;
+	padding: 15px;
+}
+.nav ul {
+	list-style-type: none;
+}
+.nav li {
+	display: inline;
+}
+.nav li a{
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+}
+.content {
+	background-color: white;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-left: 10px;
+}
+.content h2 {
+	padding-bottom: 40px;
+}
+.content p {
+	padding-bottom: 40px;
+}
+.contentmood {
+	background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.contentmood p{
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+label
+{
+  float: left;
+  width: 300px;
+}
+
+form p
+{
+  clear: left;
+}
+input[type="text"]
+{
+  width: 250px;
+}

@@ -1,0 +1,15 @@
+body {
+	margin: 10px;
+}
+
+.btn[type="red"],
+button[type="red"] {
+  color: rgba(255, 255, 255, 0.9);
+  background: #d11149;
+}
+
+.btn[type="green"],
+button[type="green"] {
+  color: rgba(255, 255, 255, 0.9);
+  background: #0a8754;
+}

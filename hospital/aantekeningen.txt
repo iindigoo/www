@@ -1,0 +1,4 @@
+patient
+name species client status geslacht
+create
+Name client(dropdown) species(dropdown) status geslacht(radio)
