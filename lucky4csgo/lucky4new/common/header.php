@@ -18,7 +18,7 @@
     <link rel="shortcut icon" href="img/favicon.ico">
     
     <!-- Loading Font Awsome -->
-    <link rel="stylesheet" href="font-awesome-4.6.3/css/font-awesome.css">
+    <link rel="stylesheet" href="dist/css/font-awesome.css">
 
     <!-- Loading Costum Flat UI -->
      <link href="dist/css/style.css" rel="stylesheet">
