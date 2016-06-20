@@ -9,26 +9,25 @@ header {
 	text-transform: uppercase;
 }
 .navbar-default .navbar-nav > li > a {
-  color: white;
+	color: white;
 }
 .navbar-default .navbar-brand {
-  color: white;
-}
-.navbar-default {
 	padding-bottom: 0;
 	margin-bottom: 0;
+	color: white;
 }
+
 .box-nav {
 	margin-top: 10px;
 	margin-bottom: 25px;
 	height: 40px;
 }
 .box {
-  color: black;
-  margin-right: auto;
-  margin-left: auto;
-  padding-left: 15px;
-  padding-right: 15px;
+	color: black;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 15px;
+	padding-right: 15px;
 }
 @media (min-width: 768px) {
   .box {
