@@ -134,12 +134,12 @@ return array(
 	 */
 	'EMAIL_USED_MAILER' => 'phpmailer',
 	'EMAIL_USE_SMTP' => false,
-	'EMAIL_SMTP_HOST' => '127.0.0.1',
-	'EMAIL_SMTP_AUTH' => false,
-	'EMAIL_SMTP_USERNAME' => '',
-	'EMAIL_SMTP_PASSWORD' => '',
-	'EMAIL_SMTP_PORT' => 25,
-	'EMAIL_SMTP_ENCRYPTION' => 'false',
+	'EMAIL_SMTP_HOST' => 'yourhost',
+	'EMAIL_SMTP_AUTH' => true,
+	'EMAIL_SMTP_USERNAME' => 'yourusername',
+	'EMAIL_SMTP_PASSWORD' => 'yourpassword',
+	'EMAIL_SMTP_PORT' => 465,
+	'EMAIL_SMTP_ENCRYPTION' => 'ssl',
 	/**
 	 * Configuration for: Email content data
 	 */

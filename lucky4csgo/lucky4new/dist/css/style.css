@@ -2,32 +2,35 @@
 
 /* Header */
 header {
-	background-color: #36444F;
 	min-height: 0;
 	width: 100%;
 	color: white;
 	text-transform: uppercase;
 }
 .navbar-default .navbar-nav > li > a {
-	color: white;
+  color: white;
 }
 .navbar-default .navbar-brand {
-	padding-bottom: 0;
-	margin-bottom: 0;
 	color: white;
 }
-
+.navbar {
+	background-color: #36444F;
+}
+.navbar-default {
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
 .box-nav {
 	margin-top: 10px;
 	margin-bottom: 25px;
 	height: 40px;
 }
 .box {
-	color: black;
-	margin-right: auto;
-	margin-left: auto;
-	padding-left: 15px;
-	padding-right: 15px;
+  color: black;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 @media (min-width: 768px) {
   .box {
@@ -45,9 +48,6 @@ header {
   }
 }
 
-.transparent {
-	background: transparent;
-}
 .btn-default {
 	background-color: #1abc9c;
 	color: white;
